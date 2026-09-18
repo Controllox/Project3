@@ -1,0 +1,11 @@
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.csproj.AssemblyReference.cache
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Avalonia/resources
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.GeneratedMSBuildEditorConfig.editorconfig
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.AssemblyInfoInputs.cache
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.AssemblyInfo.cs
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.csproj.CoreCompileInputs.cache
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.sourcelink.json
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.dll
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/refint/Project3.dll
+/home/patrick/MDK_05_02/Project3/obj/Debug/net10.0/Project3.pdb
