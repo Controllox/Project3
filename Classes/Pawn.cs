@@ -2,6 +2,7 @@ using Avalonia.Controls;
 using Avalonia.Input;
 using Avalonia.Media;
 using Avalonia.Media.Imaging;
+using Avalonia.Platform;
 
 namespace Project3.Classes
 {
@@ -43,14 +44,14 @@ namespace Project3.Classes
                 if (this.Select)
                 {
                     if (this.Black)
-                        this.Figure.Background = new ImageBrush(new Bitmap("avares://Project3/Images/Pawn (black).png"));
+                        this.Figure.Background = new ImageBrush(new Bitmap(AssetLoader.Open(new System.Uri("avares://Project3/Images/Pawn (black).png"))));
                     else
-                        this.Figure.Background = new ImageBrush(new Bitmap("avares://Project3/Images/Pawn.png"));
+                        this.Figure.Background = new ImageBrush(new Bitmap(AssetLoader.Open(new System.Uri("avares://Project3/Images/Pawn.png"))));
                     this.Select = false;
                 }
                 else
                 {
-                    this.Figure.Background = new ImageBrush(new Bitmap("avares://Project3/Images/Pawn (select).png"));
+                    this.Figure.Background = new ImageBrush(new Bitmap(AssetLoader.Open(new System.Uri("avares://Project3/Images/Pawn (select).png"))));
                     this.Select = true;
                 }
             }
